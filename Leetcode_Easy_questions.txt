@@ -1,0 +1,56 @@
+1.Two sum
+2.palindrom Number
+3.Roman to integer
+4.Longest Comman prefix
+5.Valid paranthesis
+6.Merge Two sorted lists
+7.Remove duplicates from sorted array
+8.Remove Element
+9.implemnet strSTR()
+10.Search insert position
+11.Maximum subarray
+12.Lenghth of last word
+13.plus one
+14.Add binary
+15.Sqrt(x)
+16.Cliambing stairs
+17.Remove duplicates from sorted list
+18.Merge sorted array
+19.Binary tree inorder traversal
+20.same tree
+21.symetric tree
+22.Maximum depth of binary tree
+23.path sum
+24.pascal triangle
+25.pascal triancle2
+26. Best Time to Buy and Sell Stock
+27.Valid Palindrome
+28.Single Number
+29.Linked List Cycle
+30.Binary Tree Preorder Traversal
+31.Binary Tree Postorder Traversal
+32.Min Stack
+33.Read N Characters Given Read4
+34.Intersection of Two Linked Lists
+35.Missing Ranges
+36.Two Sum II - Input array is sorted
+37.Excel Sheet Column Title
+38.Majority Element
+39.Majority Element
+40.Two Sum II - Input array is sorted
+41.Excel Sheet Column Title
+42.Majority Element
+43.Excel Sheet Column Number
+44.Reverse Bits
+45.Number of 1 Bits
+46.Happy Number
+47.Remove Linked List Elements
+48.Isomorphic Strings
+49.Reverse Linked List
+50.Contains Duplicate
+51.Defanging an IP Address
+52.Richest Customer Wealth
+53.Jewels and Stones
+54.Design Parking System
+55.Build Array from Permutation
+

@@ -23,14 +23,14 @@ If you are going to working this project as development mode then, execute the b
 Shutdown the application by simply press `Ctrl+C` command
 
 Once the server is started then, 
- - the api can be accessed through [http://127.0.0.1:8000/](http://127.0.0.1:8000/) url
+ - Api can be accessed through [http://127.0.0.1:8000/](http://127.0.0.1:8000/) url
  - swagger api documentation can be accessed through [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) url
  - redoc api documentation can be accessed through [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc) url
 
-S.No|API METHOD|API URL
------|----------|--------------
-1    | GET      | http://127.0.0.1:8000/emp/
-2    | GET      | http://127.0.0.1:8000/emp/{:id}
-3    | POST     | http://127.0.0.1:8000/emp/
-4    | PUT      | http://127.0.0.1:8000/emp/{:id}
-5    | DELETE   | http://127.0.0.1:8000/emp/{:id}
+S.No|API Method|API URL| Description
+-----|----------|--------------|------------------
+1    | GET      | http://127.0.0.1:8000/emp/       | Retrieving all employee list
+2    | GET      | http://127.0.0.1:8000/emp/{:id}  | Retrieving the employee details which matches his employee id
+3    | POST     | http://127.0.0.1:8000/emp/       | Create a new employee details
+4    | PUT      | http://127.0.0.1:8000/emp/{:id}  | Update a specific employee details which matches his employee id
+5    | DELETE   | http://127.0.0.1:8000/emp/{:id}  | Remove the employee from the list

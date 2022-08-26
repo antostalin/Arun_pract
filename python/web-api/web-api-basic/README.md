@@ -23,10 +23,10 @@ to requirement.txt file then execute the below command
 
  - Shutdown the application by simply press `Ctrl+C` command
 
- - Once the server is started then, 
-  - Api can be accessed through [http://127.0.0.1:8000/](http://127.0.0.1:8000/) url
-  - swagger api documentation can be accessed through [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) url
-  - redoc api documentation can be accessed through [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc) url
+ - Once the server is started then,
+    - API can be accessed through [http://127.0.0.1:8000/](http://127.0.0.1:8000/) url
+    - swagger api documentation can be accessed through [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) url
+    - redoc api documentation can be accessed through [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc) url
 
 ### API Documentation
 S.No|API Method|API URL| Description

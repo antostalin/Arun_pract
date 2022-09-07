@@ -1,0 +1,3 @@
+include image_ascii_arusteph/assets/*.png
+include image_ascii_arusteph/assets/*.jpg
+include image_ascii_arusteph/assets/*.ttf
